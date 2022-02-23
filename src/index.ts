@@ -14,7 +14,6 @@ export class PJ {
           this.render(id, pj_config.key, jsonObject.key);
         }
       } else throw console.error('pretty json congif does not exist.');
-      ;
     }
   }
 
