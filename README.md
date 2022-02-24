@@ -1,4 +1,14 @@
-# TSDX User Guide
+# Pretty JSON 🎨
+
+Pretty JSON is a JSON to HTML Library, it can be used to 📊 display data from json file or data from an API without directly typing HTML.
+
+The Aim of this project is to make the process of displaying the response data easier for the client(without any effort).
+
+All Contributions/Ideas/Suggestions are highly welcomed.
+
+In the end it is just fun project 😉
+
+<!-- # TSDX User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
 
@@ -100,4 +110,4 @@ For vanilla CSS, you can include it at the root directory and add it to the `fil
 
 ## Publishing to NPM
 
-We recommend using [np](https://github.com/sindresorhus/np).
+We recommend using [np](https://github.com/sindresorhus/np). -->
