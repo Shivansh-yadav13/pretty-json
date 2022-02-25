@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "pretty-json",
+  "name": "pretty-jsonjs",
   "author": "Shivansh Yadav",
   "module": "dist/pretty-json.esm.js",
   "size-limit": [
